@@ -19,3 +19,8 @@
   director: James Cameron
   year: '1984'
   id: 4
+5: !ruby/object:Movie
+  title: we
+  director: we
+  year: we
+  id: 5
