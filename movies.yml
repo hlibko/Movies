@@ -24,3 +24,13 @@
   director: we
   year: we
   id: 5
+6: !ruby/object:Movie
+  title: wew
+  director: we
+  year: sdsd
+  id: 6
+7: !ruby/object:Movie
+  title: ''
+  director: ''
+  year: ''
+  id: 7
